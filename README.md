@@ -1,5 +1,6 @@
 
 ![Cuberun](./src/textures/cuberun-logo.png)
+cool
 
 <p align="center">
 Avoid the cubes while the speed progressively increases! Can you beat the rainbow level?
